@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "q1Scn8TMsv1gv3Zck5MRLUvxq37jBErVu976hFvAUco=",
+  "Source": "FreshHarvestAPI",
+  "BasePath": "_content/FreshHarvestAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

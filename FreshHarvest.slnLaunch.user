@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FreshHarvestAPI\\FreshHarvestAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

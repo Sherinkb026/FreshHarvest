@@ -1,0 +1,41 @@
+﻿@page
+@model FreshHarvestAdminPanel.Pages.Admin.ProductPageModelModel
+@{
+}
+
+
+<div>
+	<table class="table">
+		<thead>
+			<tr>
+				<th>Product ID</th>
+				<th>Product Name</th>
+				<th>Category ID</th>
+				<th>Category Name</th>
+				<th>Price</th>
+				<th>Description</th>
+			</tr>
+		</thead>
+		<tbody>
+			
+			@foreach(var product in Model.Products)
+			{
+				<tr>
+					<td>@product.Id</td>
+					<td>@product.Name</td>
+					<td>@product.CategoryId</td>
+					<td>@product.Category?.Name</td>
+					<td>@product.Price</td>
+					<td>@product.Description</td>
+					<td><button class="btn btn-outline-primary">Edit</button></td>
+					<td><button class="btn btn-outline-danger">Delete</button></td>
+				</tr>
+			}
+
+			
+
+
+		</tbody>
+
+	</table>
+</div>

@@ -1,0 +1,6 @@
+@FreshHarvestAPI_HostAddress = http://localhost:5236
+
+GET {{FreshHarvestAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
