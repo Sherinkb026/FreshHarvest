@@ -28,16 +28,20 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Programmer/CYPHERONTECHNOLOGIES/repos/FreshHarvest/FreshHarvestAdminPanel/Pages/Admin/AddCategoryPageModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkQ2F0ZWdvcnlQYWdlTW9kZWwuY3NodG1s
+[C:/Programmer/CYPHERONTECHNOLOGIES/repos/FreshHarvest/FreshHarvestAdminPanel/Pages/Admin/AddCategoryPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkQ2F0ZWdvcnlQYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Programmer/CYPHERONTECHNOLOGIES/repos/FreshHarvest/FreshHarvestAdminPanel/Pages/Admin/CategoryPageModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2F0ZWdvcnlQYWdlTW9kZWwuY3NodG1s
+[C:/Programmer/CYPHERONTECHNOLOGIES/repos/FreshHarvest/FreshHarvestAdminPanel/Pages/Admin/CategoryPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2F0ZWdvcnlQYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Programmer/CYPHERONTECHNOLOGIES/repos/FreshHarvest/FreshHarvestAdminPanel/Pages/Admin/ProductPageModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJvZHVjdFBhZ2VNb2RlbC5jc2h0bWw=
+[C:/Programmer/CYPHERONTECHNOLOGIES/repos/FreshHarvest/FreshHarvestAdminPanel/Pages/Admin/EditCategoryPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdENhdGVnb3J5UGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Programmer/CYPHERONTECHNOLOGIES/repos/FreshHarvest/FreshHarvestAdminPanel/Pages/Admin/ProductPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJvZHVjdFBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Programmer/CYPHERONTECHNOLOGIES/repos/FreshHarvest/FreshHarvestAdminPanel/Pages/Error.cshtml]

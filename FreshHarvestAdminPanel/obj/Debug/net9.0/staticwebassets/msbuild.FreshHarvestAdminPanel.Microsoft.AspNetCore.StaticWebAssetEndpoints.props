@@ -28,13 +28,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\FreshHarvestAdminPanel.rwrokby6x7.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tRxWymzweQOsNfaWNRK6\u002B13w\u002B4iYELGQa/ySiFX6LkE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1140"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022tRxWymzweQOsNfaWNRK6\u002B13w\u002B4iYELGQa/ySiFX6LkE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Feb 2025 06:44:15 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1140"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022tRxWymzweQOsNfaWNRK6\u002B13w\u002B4iYELGQa/ySiFX6LkE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Feb 2025 09:49:45 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/FreshHarvestAdminPanel/FreshHarvestAdminPanel.rwrokby6x7.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\FreshHarvestAdminPanel.rwrokby6x7.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rwrokby6x7"},{"Name":"integrity","Value":"sha256-tRxWymzweQOsNfaWNRK6\u002B13w\u002B4iYELGQa/ySiFX6LkE="},{"Name":"label","Value":"_content/FreshHarvestAdminPanel/FreshHarvestAdminPanel.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1140"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022tRxWymzweQOsNfaWNRK6\u002B13w\u002B4iYELGQa/ySiFX6LkE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Feb 2025 06:44:15 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1140"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022tRxWymzweQOsNfaWNRK6\u002B13w\u002B4iYELGQa/ySiFX6LkE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Feb 2025 09:49:45 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/FreshHarvestAdminPanel/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>

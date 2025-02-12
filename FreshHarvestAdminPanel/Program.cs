@@ -16,6 +16,8 @@ builder.Services.AddScoped<ProductService>();
 
 builder.Services.AddScoped<AddCategoryService>();
 
+builder.Services.AddScoped<EditCategoryService>();
+
 
 
 var app = builder.Build();

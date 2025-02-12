@@ -35,9 +35,9 @@ namespace FreshHarvestAdminPanel.Services
             var categoriesJson = jsonObject["$values"]?.ToString();//gets the "$Values" array which contains the actual category list
 
 
-            return categoriesJson != null//converts the categoriesjson into into a C# list of categorymodel
-                ? JsonConvert.DeserializeObject<List<CategoryModel>>(categoriesJson)
-                : new List<CategoryModel>();
+            return categoriesJson != null//catgeories is not null 
+                ? JsonConvert.DeserializeObject<List<CategoryModel>>(categoriesJson)//it deserializes it into List<categorymodel>
+                : new List<CategoryModel>();//else return an empty list
 
         }
 

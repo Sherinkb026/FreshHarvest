@@ -73,7 +73,7 @@ namespace FreshHarvestAPI.Controllers
                 return BadRequest();
             }
 
-            _context.Entry(product).State = EntityState.Modified;
+            _context.Entry(product).State = EntityState.Modified;//marks the product as updated
             await _context.SaveChangesAsync();
             return NoContent();
         }
@@ -83,7 +83,7 @@ namespace FreshHarvestAPI.Controllers
 
         [HttpDelete("{id}")]
 
-        public async Task<IActionResult> DeleteProduct(int id)
+        public async Task<IActionResult> DeleteProduct(int id)//calls this when api/product/id is deleted
         {
             var product = await _context.Products.FindAsync(id);
             if (product == null)

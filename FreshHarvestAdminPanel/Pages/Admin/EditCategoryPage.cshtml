@@ -1,0 +1,22 @@
+﻿@page "{id:int}"
+@model FreshHarvestAdminPanel.Pages.Admin.EditCategoryPageModel
+@{
+}
+
+
+<div class="container mt-4">
+	<h2>Edit Category</h2>
+	<form method="post">
+		<input type="hidden" name="name" value="" asp-for ="Category.Id" />
+
+		<div class="mt-3">
+			<label class="form-label">Category Name</label>
+			<input type="text" name="name" value="" asp-for="Category.Name" class="form-control"/>
+			<span asp-validation-for="Category.Name" class="text-danger"></span>
+		</div>
+
+		<button type="submit" class="btn btn-outline-secondary">Update</button>
+		<a asp-page="/Admin/CategoryPage" class="btn btn-outline-danger">Cancel</a>
+	</form>
+
+</div>
