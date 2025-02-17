@@ -1,8 +1,7 @@
-﻿using System.Text.Json;
-using FreshHarvestAPI.Models;
-using Newtonsoft.Json.Linq;
-using System.Text.Json;
+﻿using FreshHarvestAPI.Models;
 using System.Text;
+using Newtonsoft.Json;
+
 
 namespace FreshHarvestAdminPanel.Services
 {
@@ -16,9 +15,29 @@ namespace FreshHarvestAdminPanel.Services
             _httpClient = httpClient;
         }
 
+
+        public async Task<CategoryModel> GetCategoryByIdAsync(int id)
+        {
+            string url = $"{_apiBaseUrl}/{id}";
+          
+
+            var response = await _httpClient.GetAsync(url);
+
+            var responseBody = await response.Content.ReadAsStringAsync();
+
+            if (!response.IsSuccessStatusCode)
+            {
+                return null;
+            }
+
+            var category = JsonConvert.DeserializeObject<CategoryModel>(responseBody);
+
+            return category;
+        }
+
         public async Task<bool> EditCategoryAsync(CategoryModel category)
         {
-            var json = JsonSerializer.Serialize(category);
+            var json = System.Text.Json.JsonSerializer.Serialize(category);
 
             var content = new StringContent(json, Encoding.UTF8, "application/json");
 
@@ -28,29 +47,7 @@ namespace FreshHarvestAdminPanel.Services
 
         }
 
-        public async Task<CategoryModel?> GetCategoryByIdAsync(int Id)
-        {
-            var response = await _httpClient.GetAsync($"{_apiBaseUrl}/{Id}");
+       
 
-            if (response.IsSuccessStatusCode)
-            {
-                return null;
-            }
-            var json = await response.Content.ReadAsStringAsync();
-
-            Console.WriteLine("API Response:" + json);
-
-            using var jsonDocument = JsonDocument.Parse(json);
-
-            if (jsonDocument.RootElement.TryGetProperty("$values", out var valuesElement) && valuesElement.GetArrayLength()>0)
-            {
-                var categoryJson = valuesElement[0].GetRawText();
-                return JsonSerializer.Deserialize<CategoryModel>(categoryJson, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
-
-            } 
-            
-            return null;
-
-        }
     }
 }

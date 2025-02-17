@@ -5,6 +5,12 @@
 
 
 <div>
+	<h2>All Products</h2>
+
+	<div class="d-flex justify-content-end">
+		<button class="btn btn-outline-info" onclick="location.href='/Admin/AddProductPage'">+ Add Product</button>
+	</div>
+
 	<table class="table">
 		<thead>
 			<tr>
@@ -27,8 +33,10 @@
 					<td>@product.Category?.Name</td>
 					<td>@product.Price</td>
 					<td>@product.Description</td>
-					<td><button class="btn btn-outline-primary">Edit</button></td>
-					<td><button class="btn btn-outline-danger">Delete</button></td>
+					<td><a asp-page="/Admin/EditProductPage" asp-route-id="@product.Id" class="btn btn-outline-primary">Edit</a></td>
+					<form method="post" asp-page-handler="Delete" asp-route-id="@product.Id" onsubmit="return confirm('Are you sure you wqant to delete Product @product.Name');">
+						<td><button type="submit" class="btn btn-outline-danger">Delete</button></td>
+					</form>
 				</tr>
 			}
 

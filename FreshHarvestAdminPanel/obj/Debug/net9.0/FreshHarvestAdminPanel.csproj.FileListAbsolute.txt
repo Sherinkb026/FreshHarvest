@@ -223,10 +223,10 @@ C:\Programmer\CYPHERONTECHNOLOGIES\repos\FreshHarvest\FreshHarvestAdminPanel\obj
 C:\Programmer\CYPHERONTECHNOLOGIES\repos\FreshHarvest\FreshHarvestAdminPanel\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.FreshHarvestAdminPanel.props
 C:\Programmer\CYPHERONTECHNOLOGIES\repos\FreshHarvest\FreshHarvestAdminPanel\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.FreshHarvestAdminPanel.props
 C:\Programmer\CYPHERONTECHNOLOGIES\repos\FreshHarvest\FreshHarvestAdminPanel\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Programmer\CYPHERONTECHNOLOGIES\repos\FreshHarvest\FreshHarvestAdminPanel\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Programmer\CYPHERONTECHNOLOGIES\repos\FreshHarvest\FreshHarvestAdminPanel\obj\Debug\net9.0\FreshHar.70E75262.Up2Date
 C:\Programmer\CYPHERONTECHNOLOGIES\repos\FreshHarvest\FreshHarvestAdminPanel\obj\Debug\net9.0\FreshHarvestAdminPanel.dll
 C:\Programmer\CYPHERONTECHNOLOGIES\repos\FreshHarvest\FreshHarvestAdminPanel\obj\Debug\net9.0\refint\FreshHarvestAdminPanel.dll
 C:\Programmer\CYPHERONTECHNOLOGIES\repos\FreshHarvest\FreshHarvestAdminPanel\obj\Debug\net9.0\FreshHarvestAdminPanel.pdb
 C:\Programmer\CYPHERONTECHNOLOGIES\repos\FreshHarvest\FreshHarvestAdminPanel\obj\Debug\net9.0\FreshHarvestAdminPanel.genruntimeconfig.cache
 C:\Programmer\CYPHERONTECHNOLOGIES\repos\FreshHarvest\FreshHarvestAdminPanel\obj\Debug\net9.0\ref\FreshHarvestAdminPanel.dll
-C:\Programmer\CYPHERONTECHNOLOGIES\repos\FreshHarvest\FreshHarvestAdminPanel\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

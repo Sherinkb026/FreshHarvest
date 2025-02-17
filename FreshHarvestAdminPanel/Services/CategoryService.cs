@@ -24,20 +24,20 @@ namespace FreshHarvestAdminPanel.Services
 
         public async Task<List<CategoryModel>?> GetCategoriesAsync()
         {
-            var response = await _httpClient.GetAsync(_apiBaseUrl);//sends a get request to the api url
-            if(!response.IsSuccessStatusCode)//checks if the api returned a succesful response
+            var response = await _httpClient.GetAsync(_apiBaseUrl);
+            if(!response.IsSuccessStatusCode)
             {
-                return new List<CategoryModel>();//if api request fails, return an empty list instead of breaking the program
+                return new List<CategoryModel>();
             }
 
-            var jsonString = await response.Content.ReadAsStringAsync();//reads the api response as string 
-            var jsonObject = JObject.Parse(jsonString);//converts the json string into json object which can be queried like a dictionary. 
-            var categoriesJson = jsonObject["$values"]?.ToString();//gets the "$Values" array which contains the actual category list
+            var jsonString = await response.Content.ReadAsStringAsync();
+            var jsonObject = JObject.Parse(jsonString);
+            var categoriesJson = jsonObject["$values"]?.ToString();
 
 
-            return categoriesJson != null//catgeories is not null 
-                ? JsonConvert.DeserializeObject<List<CategoryModel>>(categoriesJson)//it deserializes it into List<categorymodel>
-                : new List<CategoryModel>();//else return an empty list
+            return categoriesJson != null
+                ? JsonConvert.DeserializeObject<List<CategoryModel>>(categoriesJson)
+                : new List<CategoryModel>();
 
         }
 

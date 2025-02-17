@@ -1,4 +1,3 @@
-using FreshHarvestAdminPanel.Data;
 using FreshHarvestAdminPanel.Services;
 using Microsoft.EntityFrameworkCore;
 using FreshHarvestAdminPanel.Services;
@@ -17,6 +16,10 @@ builder.Services.AddScoped<ProductService>();
 builder.Services.AddScoped<AddCategoryService>();
 
 builder.Services.AddScoped<EditCategoryService>();
+
+builder.Services.AddScoped<AddProductService>();
+
+builder.Services.AddScoped<EditProductService>();
 
 
 

@@ -6,7 +6,7 @@ namespace FreshHarvestAPI.Models
     public class ProductModel
     {
 
-        [Key]//key denotes the database that it is the primary key
+        [Key]
         public int Id { get; set; }
 
         [Required]
@@ -15,13 +15,15 @@ namespace FreshHarvestAPI.Models
         public string Description { get; set; }
 
         [Required]
-        [Column(TypeName = "decimal(18,2)")]//means the number can have upto 18 didits wth 2 decimal places
+        [Column(TypeName = "decimal(18,2)")]
         public decimal Price { get; set; }
+
+       
 
 
         [ForeignKey("Category")]
         public int CategoryId { get; set; }
 
-        public CategoryModel? Category { get; set; }//holds the detailed information of the category
+        public CategoryModel? Category { get; set; }
     }
 }

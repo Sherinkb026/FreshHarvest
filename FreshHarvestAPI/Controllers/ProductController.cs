@@ -7,16 +7,16 @@ using Microsoft.EntityFrameworkCore;
 namespace FreshHarvestAPI.Controllers
 {
 
-    [Microsoft.AspNetCore.Mvc.Route("api/[controller]")]// this api handles requests at api/Product
-    [ApiController]//makes it an api controller
+    [Microsoft.AspNetCore.Mvc.Route("api/[controller]")]
+    [ApiController]
     public class ProductController : ControllerBase
     {
 
-        private readonly ApplicationDbContext _context;//allows interaction with the database
+        private readonly ApplicationDbContext _context;
 
         public ProductController(ApplicationDbContext context)
         {
-            _context = context;//assigns database connection when the controller starts
+            _context = context;
         }
 
 
@@ -26,9 +26,9 @@ namespace FreshHarvestAPI.Controllers
         [HttpGet]
 
         public async Task<ActionResult<IEnumerable<ProductModel>>> GetProducts()
-        {                                                                                 //ToListAsync is used with EF to fetch data from a database asynchronously.
-            var products = await _context.Products.Include(p => p.Category).ToListAsync();//gets all products including their category details
-            return Ok(products);//returns list of products as response
+        {                                                                                 
+            var products = await _context.Products.Include(p => p.Category).ToListAsync();
+            return Ok(products);
         }
 
 
@@ -54,11 +54,11 @@ namespace FreshHarvestAPI.Controllers
         //create new product
         [HttpPost]
 
-        public async Task<ActionResult<ProductModel>> PostProduct([FromBody] ProductModel product)//gets product details from the request body
+        public async Task<ActionResult<ProductModel>> PostProduct([FromBody] ProductModel product)
         {
             _context.Products.Add(product);
             await _context.SaveChangesAsync();
-            return CreatedAtAction("GetProduct", new {id = product.Id}, product);//responds with the newly created product
+            return CreatedAtAction("GetProduct", new {id = product.Id}, product);
         }
 
 
@@ -73,9 +73,38 @@ namespace FreshHarvestAPI.Controllers
                 return BadRequest();
             }
 
-            _context.Entry(product).State = EntityState.Modified;//marks the product as updated
-            await _context.SaveChangesAsync();
-            return NoContent();
+            var existingProduct = await _context.Products.Include(p => p.Category).FirstOrDefaultAsync(p => p.Id == id);
+
+            
+
+            if (existingProduct == null)
+            {
+                return NotFound("Product not found.");
+            }
+
+            existingProduct.Name = product.Name;
+            existingProduct.Description = product.Description;
+            existingProduct.Price = product.Price;
+
+
+            var existingCategory = await _context.Category.FindAsync(product.CategoryId);
+            if (existingCategory == null)
+            {
+                return NotFound("Category not found.");
+            }
+
+            existingProduct.CategoryId = product.CategoryId;
+            existingProduct.Category = existingCategory; 
+
+            try
+            {
+                await _context.SaveChangesAsync();
+                return NoContent(); 
+            }
+            catch (DbUpdateConcurrencyException)
+            {
+                return Conflict("The product was modified or deleted by another process.");
+            }
         }
 
 

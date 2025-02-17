@@ -19,24 +19,30 @@ namespace FreshHarvestAdminPanel.Pages.Admin
 
         public CategoryModel Category { get; set; } = new CategoryModel();
 
-        public async Task<IActionResult> OnGetAsync(int id)
+        public async Task<IActionResult> OnGetAsync(int Id)
         {
-            var category = await _editCategoryService.GetCategoryByIdAsync(id);
+
+            var category = await _editCategoryService.GetCategoryByIdAsync(Id);
 
             if (category == null)
             {
-                return NotFound();
+                return BadRequest();
             }
+
 
             Category = category;
 
             return Page();
-
         }
 
         public async Task<IActionResult> OnPostAsync()
         {
             if (!ModelState.IsValid)
+            {
+                return Page();
+            }
+
+            if (Category == null)
             {
                 return Page();
             }
@@ -51,7 +57,7 @@ namespace FreshHarvestAdminPanel.Pages.Admin
             ModelState.AddModelError("", "Failed to update category");
 
             return Page();
-            
+
         }
     }
 }

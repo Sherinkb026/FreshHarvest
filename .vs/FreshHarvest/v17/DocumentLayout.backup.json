@@ -3,59 +3,24 @@
   "WorkspaceRootPath": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\pages\\admin\\addproductpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\pages\\admin\\addproductpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\pages\\admin\\editcategorypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\pages\\admin\\editcategorypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\pages\\admin\\categorypage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\pages\\admin\\categorypage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\pages\\admin\\editcategorypage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\pages\\admin\\editcategorypage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\pages\\admin\\categorypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\pages\\admin\\categorypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\pages\\admin\\editproductpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\pages\\admin\\editproductpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\pages\\admin\\addcategorypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\pages\\admin\\addcategorypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\services\\editcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\services\\editcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\services\\addcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\services\\addcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestapi\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|solutionrelative:freshharvestapi\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\pages\\admin\\addcategorypage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\pages\\admin\\addcategorypage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\pages\\admin\\categorypage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\pages\\admin\\categorypage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\pages\\admin\\editproductpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\pages\\admin\\editproductpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\pages\\admin\\productpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,12 +31,48 @@
       "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\pages\\admin\\productpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|solutionrelative:freshharvestapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\services\\editproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\services\\editproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\services\\addproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\services\\addproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\services\\editcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\services\\editcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\pages\\admin\\addcategorypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\pages\\admin\\addcategorypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\pages\\admin\\addcategorypage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\pages\\admin\\addcategorypage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\services\\addcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\services\\addcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\pages\\admin\\categorypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\pages\\admin\\categorypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,16 +87,40 @@
       "RelativeMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|solutionrelative:freshharvestapi\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestapi\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|solutionrelative:freshharvestapi\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|solutionrelative:freshharvestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|solutionrelative:freshharvestapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|solutionrelative:freshharvestapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestapi\\migrations\\20250211064717_migrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|solutionrelative:freshharvestapi\\migrations\\20250211064717_migrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestapi\\migrations\\20250214061555_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|solutionrelative:freshharvestapi\\migrations\\20250214061555_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestapi\\migrations\\20250211080635_getproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|solutionrelative:freshharvestapi\\migrations\\20250211080635_getproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\pages\\admin\\editcategorypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\pages\\admin\\editcategorypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestadminpanel\\pages\\admin\\addproductpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44DF47CF-5727-4C57-80B3-DB7B24F14648}|FreshHarvestAdminPanel\\FreshHarvestAdminPanel.csproj|solutionrelative:freshharvestadminpanel\\pages\\admin\\addproductpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestapi\\migrations\\20250214062333_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|solutionrelative:freshharvestapi\\migrations\\20250214062333_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|c:\\programmer\\cypherontechnologies\\repos\\freshharvest\\freshharvestapi\\migrations\\20250214062355_initprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD63996B-6ED2-426B-87BF-487DDDA25433}|FreshHarvestAPI\\FreshHarvestAPI.csproj|solutionrelative:freshharvestapi\\migrations\\20250214062355_initprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -105,176 +130,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAD0VAAAAAAAAAAAtwMkUAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-02-12T09:21:52.932Z"
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AddCategoryPage.cshtml",
-              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\AddCategoryPage.cshtml",
-              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Pages\\Admin\\AddCategoryPage.cshtml",
-              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\AddCategoryPage.cshtml",
-              "RelativeToolTip": "FreshHarvestAdminPanel\\Pages\\Admin\\AddCategoryPage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T08:22:51.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryPage.cshtml",
-              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\CategoryPage.cshtml",
-              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Pages\\Admin\\CategoryPage.cshtml",
-              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\CategoryPage.cshtml",
-              "RelativeToolTip": "FreshHarvestAdminPanel\\Pages\\Admin\\CategoryPage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T08:39:08.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Program.cs",
-              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Program.cs",
-              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Program.cs",
-              "RelativeToolTip": "FreshHarvestAdminPanel\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T11:20:57.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EditCategoryPage.cshtml.cs",
-              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\EditCategoryPage.cshtml.cs",
-              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Pages\\Admin\\EditCategoryPage.cshtml.cs",
-              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\EditCategoryPage.cshtml.cs",
-              "RelativeToolTip": "FreshHarvestAdminPanel\\Pages\\Admin\\EditCategoryPage.cshtml.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAmwDkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T08:04:02.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EditCategoryService.cs",
-              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Services\\EditCategoryService.cs",
-              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Services\\EditCategoryService.cs",
-              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Services\\EditCategoryService.cs",
-              "RelativeToolTip": "FreshHarvestAdminPanel\\Services\\EditCategoryService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwDMAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T06:43:49.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EditCategoryPage.cshtml",
-              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\EditCategoryPage.cshtml",
-              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Pages\\Admin\\EditCategoryPage.cshtml",
-              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\EditCategoryPage.cshtml",
-              "RelativeToolTip": "FreshHarvestAdminPanel\\Pages\\Admin\\EditCategoryPage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T06:43:04.095Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FreshHarvestAdminPanel\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwB0AAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T06:15:51.529Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AddCategoryService.cs",
-              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Services\\AddCategoryService.cs",
-              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Services\\AddCategoryService.cs",
-              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Services\\AddCategoryService.cs",
-              "RelativeToolTip": "FreshHarvestAdminPanel\\Services\\AddCategoryService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAACAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T08:11:02.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CategoryPage.cshtml.cs",
-              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\CategoryPage.cshtml.cs",
-              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Pages\\Admin\\CategoryPage.cshtml.cs",
-              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\CategoryPage.cshtml.cs",
-              "RelativeToolTip": "FreshHarvestAdminPanel\\Pages\\Admin\\CategoryPage.cshtml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T11:09:40.632Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "ProductPage.cshtml",
               "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\ProductPage.cshtml",
               "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Pages\\Admin\\ProductPage.cshtml",
               "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\ProductPage.cshtml",
               "RelativeToolTip": "FreshHarvestAdminPanel\\Pages\\Admin\\ProductPage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACMAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T11:17:05.02Z"
+              "WhenOpened": "2025-02-14T05:40:48.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Services\\CategoryService.cs",
-              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Services\\CategoryService.cs",
-              "RelativeToolTip": "FreshHarvestAdminPanel\\Services\\CategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "EditProductPage.cshtml.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\EditProductPage.cshtml.cs",
+              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Pages\\Admin\\EditProductPage.cshtml.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\EditProductPage.cshtml.cs",
+              "RelativeToolTip": "FreshHarvestAdminPanel\\Pages\\Admin\\EditProductPage.cshtml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwEUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T08:15:44.519Z"
+              "WhenOpened": "2025-02-14T05:40:36.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Services\\ProductService.cs",
-              "RelativeToolTip": "FreshHarvestAdminPanel\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAACyAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "EditProductPage.cshtml",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\EditProductPage.cshtml",
+              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Pages\\Admin\\EditProductPage.cshtml",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\EditProductPage.cshtml",
+              "RelativeToolTip": "FreshHarvestAdminPanel\\Pages\\Admin\\EditProductPage.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T05:50:59.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditCategoryPage.cshtml.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\EditCategoryPage.cshtml.cs",
+              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Pages\\Admin\\EditCategoryPage.cshtml.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\EditCategoryPage.cshtml.cs",
+              "RelativeToolTip": "FreshHarvestAdminPanel\\Pages\\Admin\\EditCategoryPage.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T11:13:47.862Z"
+              "WhenOpened": "2025-02-14T05:40:38.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 1,
+              "Title": "CategoryPage.cshtml.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\CategoryPage.cshtml.cs",
+              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Pages\\Admin\\CategoryPage.cshtml.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\CategoryPage.cshtml.cs",
+              "RelativeToolTip": "FreshHarvestAdminPanel\\Pages\\Admin\\CategoryPage.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:03:53.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddProductPage.cshtml.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\AddProductPage.cshtml.cs",
+              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Pages\\Admin\\AddProductPage.cshtml.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\AddProductPage.cshtml.cs",
+              "RelativeToolTip": "FreshHarvestAdminPanel\\Pages\\Admin\\AddProductPage.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:59:04.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ProductPage.cshtml.cs",
               "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\ProductPage.cshtml.cs",
               "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Pages\\Admin\\ProductPage.cshtml.cs",
               "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\ProductPage.cshtml.cs",
               "RelativeToolTip": "FreshHarvestAdminPanel\\Pages\\Admin\\ProductPage.cshtml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBYAAAB4AAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwBgAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T11:09:24.241Z"
+              "WhenOpened": "2025-02-14T09:36:18.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Services\\ProductService.cs",
+              "RelativeToolTip": "FreshHarvestAdminPanel\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:32:34.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddProductService.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Services\\AddProductService.cs",
+              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Services\\AddProductService.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Services\\AddProductService.cs",
+              "RelativeToolTip": "FreshHarvestAdminPanel\\Services\\AddProductService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:31:48.326Z"
             },
             {
               "$type": "Document",
@@ -284,69 +257,81 @@
               "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Pages\\Admin\\AddCategoryPage.cshtml.cs",
               "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\AddCategoryPage.cshtml.cs",
               "RelativeToolTip": "FreshHarvestAdminPanel\\Pages\\Admin\\AddCategoryPage.cshtml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T08:23:15.863Z"
+              "WhenOpened": "2025-02-14T09:23:02.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddCategoryService.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Services\\AddCategoryService.cs",
+              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Services\\AddCategoryService.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Services\\AddCategoryService.cs",
+              "RelativeToolTip": "FreshHarvestAdminPanel\\Services\\AddCategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:04:12.152Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "CategoryModel.cs",
-              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Models\\CategoryModel.cs",
-              "RelativeDocumentMoniker": "FreshHarvestAPI\\Models\\CategoryModel.cs",
-              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Models\\CategoryModel.cs",
-              "RelativeToolTip": "FreshHarvestAPI\\Models\\CategoryModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T06:11:01.352Z"
+              "Title": "AddCategoryPage.cshtml",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\AddCategoryPage.cshtml",
+              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Pages\\Admin\\AddCategoryPage.cshtml",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\AddCategoryPage.cshtml",
+              "RelativeToolTip": "FreshHarvestAdminPanel\\Pages\\Admin\\AddCategoryPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T06:42:29.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "FreshHarvestAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "FreshHarvestAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-12T06:24:14.571Z"
+              "DocumentIndex": 8,
+              "Title": "EditProductService.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Services\\EditProductService.cs",
+              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Services\\EditProductService.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Services\\EditProductService.cs",
+              "RelativeToolTip": "FreshHarvestAdminPanel\\Services\\EditProductService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:23:04.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Services\\CategoryService.cs",
+              "RelativeToolTip": "FreshHarvestAdminPanel\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAArwBgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:04:15.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditCategoryService.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Services\\EditCategoryService.cs",
+              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Services\\EditCategoryService.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Services\\EditCategoryService.cs",
+              "RelativeToolTip": "FreshHarvestAdminPanel\\Services\\EditCategoryService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:23:03.378Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Index.cshtml",
-              "RelativeToolTip": "FreshHarvestAdminPanel\\Pages\\Index.cshtml",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\appsettings.json",
+              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\appsettings.json",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\appsettings.json",
+              "RelativeToolTip": "FreshHarvestAdminPanel\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T06:15:49.504Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ProductModel.cs",
-              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Models\\ProductModel.cs",
-              "RelativeDocumentMoniker": "FreshHarvestAPI\\Models\\ProductModel.cs",
-              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Models\\ProductModel.cs",
-              "RelativeToolTip": "FreshHarvestAPI\\Models\\ProductModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T11:18:42.99Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "FreshHarvestAPI\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "FreshHarvestAPI\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAowFUAAABpAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T11:28:56.573Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T09:04:01.547Z"
             },
             {
               "$type": "Document",
@@ -356,13 +341,25 @@
               "RelativeDocumentMoniker": "FreshHarvestAPI\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "FreshHarvestAPI\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowEcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T08:49:50.489Z"
+              "WhenOpened": "2025-02-14T08:29:07.772Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 14,
+              "Title": "CategoryPage.cshtml",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\CategoryPage.cshtml",
+              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Pages\\Admin\\CategoryPage.cshtml",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\CategoryPage.cshtml",
+              "RelativeToolTip": "FreshHarvestAdminPanel\\Pages\\Admin\\CategoryPage.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T06:03:56.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "FreshHarvestAPI\\Data\\ApplicationDbContext.cs",
@@ -370,31 +367,149 @@
               "RelativeToolTip": "FreshHarvestAPI\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T09:42:20.138Z"
+              "WhenOpened": "2025-02-14T06:43:38.747Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "20250211080635_Getproducts.cs",
-              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Migrations\\20250211080635_Getproducts.cs",
-              "RelativeDocumentMoniker": "FreshHarvestAPI\\Migrations\\20250211080635_Getproducts.cs",
-              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Migrations\\20250211080635_Getproducts.cs",
-              "RelativeToolTip": "FreshHarvestAPI\\Migrations\\20250211080635_Getproducts.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FreshHarvestAPI\\appsettings.json",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\appsettings.json",
+              "RelativeToolTip": "FreshHarvestAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T07:53:25.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Models\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "FreshHarvestAPI\\Models\\CategoryModel.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Models\\CategoryModel.cs",
+              "RelativeToolTip": "FreshHarvestAPI\\Models\\CategoryModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T08:06:36.053Z"
+              "WhenOpened": "2025-02-14T07:56:08.474Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "20250211064717_MigrationName.cs",
-              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Migrations\\20250211064717_MigrationName.cs",
-              "RelativeDocumentMoniker": "FreshHarvestAPI\\Migrations\\20250211064717_MigrationName.cs",
-              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Migrations\\20250211064717_MigrationName.cs",
-              "RelativeToolTip": "FreshHarvestAPI\\Migrations\\20250211064717_MigrationName.cs",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FreshHarvestAPI\\Program.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Program.cs",
+              "RelativeToolTip": "FreshHarvestAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:43:30.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FreshHarvestAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FreshHarvestAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowEcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:07:38.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Program.cs",
+              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Program.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Program.cs",
+              "RelativeToolTip": "FreshHarvestAdminPanel\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:06:44.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "FreshHarvestAPI\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Models\\ProductModel.cs",
+              "RelativeToolTip": "FreshHarvestAPI\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:13:03.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250214062333_Init.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Migrations\\20250214062333_Init.cs",
+              "RelativeDocumentMoniker": "FreshHarvestAPI\\Migrations\\20250214062333_Init.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Migrations\\20250214062333_Init.cs",
+              "RelativeToolTip": "FreshHarvestAPI\\Migrations\\20250214062333_Init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T06:47:18.152Z"
+              "WhenOpened": "2025-02-14T06:23:33.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250214062355_Initprocess.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Migrations\\20250214062355_Initprocess.cs",
+              "RelativeDocumentMoniker": "FreshHarvestAPI\\Migrations\\20250214062355_Initprocess.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Migrations\\20250214062355_Initprocess.cs",
+              "RelativeToolTip": "FreshHarvestAPI\\Migrations\\20250214062355_Initprocess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:23:55.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250214061555_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Migrations\\20250214061555_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FreshHarvestAPI\\Migrations\\20250214061555_InitialCreate.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAPI\\Migrations\\20250214061555_InitialCreate.cs",
+              "RelativeToolTip": "FreshHarvestAPI\\Migrations\\20250214061555_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:15:56.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditCategoryPage.cshtml",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\EditCategoryPage.cshtml",
+              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Pages\\Admin\\EditCategoryPage.cshtml",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\EditCategoryPage.cshtml",
+              "RelativeToolTip": "FreshHarvestAdminPanel\\Pages\\Admin\\EditCategoryPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T05:50:49.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddProductPage.cshtml",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\AddProductPage.cshtml",
+              "RelativeDocumentMoniker": "FreshHarvestAdminPanel\\Pages\\Admin\\AddProductPage.cshtml",
+              "ToolTip": "C:\\Programmer\\CYPHERONTECHNOLOGIES\\repos\\FreshHarvest\\FreshHarvestAdminPanel\\Pages\\Admin\\AddProductPage.cshtml",
+              "RelativeToolTip": "FreshHarvestAdminPanel\\Pages\\Admin\\AddProductPage.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T05:51:09.878Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

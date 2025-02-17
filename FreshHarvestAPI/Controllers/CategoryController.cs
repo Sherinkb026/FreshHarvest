@@ -20,7 +20,7 @@ namespace FreshHarvestAPI.Controllers
 
 
         //get all categories
-        [ProducesResponseType(StatusCodes.Status200OK)]
+        
         [HttpGet]
 
         public async Task<ActionResult<IEnumerable<CategoryModel>>> GetCategories()

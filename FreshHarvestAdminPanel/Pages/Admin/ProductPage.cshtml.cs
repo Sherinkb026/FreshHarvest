@@ -9,19 +9,34 @@ namespace FreshHarvestAdminPanel.Pages.Admin
     {
         private readonly ProductService _productService;
 
-        public ProductPageModel(ProductService productService)
+        private readonly HttpClient _httpClient;
+
+        public ProductPageModel(ProductService productService, HttpClient httpClient)
         {
             _productService = productService;
+            _httpClient = httpClient;
         }
 
-        public List<ProductModel> Products { get; set; }//declares a public list to store products
-                                                        //this stores data that will be displayed in the razorpage
+        public List<ProductModel> Products { get; set; }
 
-        public async Task OnGetAsync()//handles the get request
-                                      //this page automatically calls when the page loads
+        public async Task OnGetAsync()
+                                      
         {
-            Products = await _productService.GetProductsAsync();//calls the api to fetch data and stores it in products 
+            Products = await _productService.GetProductsAsync();
            
+        }
+
+        public async Task<IActionResult> OnPostDeleteAsync(int id)
+        {
+            var response = await _httpClient.DeleteAsync($"https://localhost:7217/api/Product/{id}");
+
+            if (!response.IsSuccessStatusCode)
+            {
+                ModelState.AddModelError("", "Failed to delete the product");
+                return Page();
+            }
+
+            return RedirectToPage("/Admin/ProductPage");
         }
     }
 }
